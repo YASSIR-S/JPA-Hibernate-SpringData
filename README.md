@@ -5,7 +5,7 @@
 <img src="Capture/1.PNG">
 
 
-<h3> 2. Créayion de l'entité JPA Patient ayant les attributs :<br></h3>
+<h3> 2. Création de l'entité JPA Patient ayant les attributs :<br></h3>
 <h6> - id de type Long <br> </h6>
 <h6>- nom de type String<br> </h6>
 <h6> - dateNaissanec de type Date<br> </h6>
